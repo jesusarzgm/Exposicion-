@@ -13,7 +13,7 @@ __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
 ---
 *** Ventajas ***
 
-*/ >Se evitan los problemas de intercambio de colaves en la manipulación de datos
-   >Es efectivo para conjuntos de datos que se pueden aceder secuencialmente como arreglos, vectores y listas 
+ * >Se evitan los problemas de intercambio de colaves en la manipulación de datos
+ * >Es efectivo para conjuntos de datos que se pueden aceder secuencialmente como arreglos, vectores y listas 
    ligadas 
-   /*
+   
