@@ -17,3 +17,4 @@ __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
  * >Es efectivo para conjuntos de datos que se pueden aceder secuencialmente como arreglos, vectores y listas 
    ligadas 
    
+   [Flux Explained](blob:https://web.whatsapp.com/4238b44a-d230-4f09-96dd-67b808e18fa6)
