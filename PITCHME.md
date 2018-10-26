@@ -63,7 +63,7 @@ public static void merge(int A[],int izq, int m, int der){
                            A[k++]=B[i++]; //primera mitad (si los hay)
  }
  
- ```
+ 
  
  ---
  >>>El tiempo de ejecución promedio del método MergeSort es (n log n)<<<
