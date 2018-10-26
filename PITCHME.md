@@ -66,7 +66,7 @@ public static void merge(int A[],int izq, int m, int der){
  
  ---
  
- >>>El tiempo de ejecución promedio del método MergeSort es (n log n)<<<
+ ##El tiempo de ejecución promedio del método MergeSort es (n log n)
  
  ---
  ### Enlaces ###
