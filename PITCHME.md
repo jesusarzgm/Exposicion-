@@ -72,4 +72,4 @@ public static void merge(int A[],int izq, int m, int der){
 * [GitHub](http://puntocomnoesunlenguaje.blogspot.com/2014/10/java-mergesort.html)
  
 * [GitHub](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
-
+---
