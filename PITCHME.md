@@ -45,7 +45,7 @@ public static void mergesort(int A[],int izq, int der){
     }
 }
 ```
-
+---
 ```
 public static void merge(int A[],int izq, int m, int der){
    int i, j, k;
@@ -63,15 +63,13 @@ public static void merge(int A[],int izq, int m, int der){
                            A[k++]=B[i++]; //primera mitad (si los hay)
  }
  ```
- 
  ---
  
- ##El tiempo de ejecución promedio del método MergeSort es (n log n)
+ El tiempo de ejecución promedio del método MergeSort es (n log n)
  
  ---
  ### Enlaces ###
  
-* [GitHub](http://puntocomnoesunlenguaje.blogspot.com/2014/10/java-mergesort.html)
+* [puntocomnoesunlenguaje](http://puntocomnoesunlenguaje.blogspot.com/2014/10/java-mergesort.html)
  
-* [GitHub](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
----
+* [Wikipedia](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
