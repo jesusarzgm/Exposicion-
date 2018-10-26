@@ -62,14 +62,15 @@ public static void merge(int A[],int izq, int m, int der){
              while (i<=m) //copia los elementos que quedan de la
                            A[k++]=B[i++]; //primera mitad (si los hay)
  }
+ 
  ```
  
  ---
- 
+ >>>El tiempo de ejecución promedio del método MergeSort es (n log n)<<<
+ ---
  ### Enlaces ###
  
 * [GitHub](http://puntocomnoesunlenguaje.blogspot.com/2014/10/java-mergesort.html)
  
 * [GitHub](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
- 
----
+
