@@ -35,7 +35,8 @@ __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
 ![Flux Explained](https://data.whicdn.com/images/273495809/large.jpg)
 
 ---
-```public static void mergesort(int A[],int izq, int der){
+```
+public static void mergesort(int A[],int izq, int der){
     if (izq<der){
             int m=(izq+der)/2;
             mergesort(A,izq, m);
@@ -60,7 +61,8 @@ public static void merge(int A[],int izq, int m, int der){
                      A[k++]=B[j++];
              while (i<=m) //copia los elementos que quedan de la
                            A[k++]=B[i++]; //primera mitad (si los hay)
- }```
+ }
+ ```
  
  ---
  
