@@ -13,7 +13,7 @@ __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
 ---
 *** Ventajas ***
 
- * Se evitan los problemas de intercambio de colaves en la manipulación de datos.
+ * Se evitan los problemas de intercambio de claves en la manipulación de datos.
  * Es efectivo para conjuntos de datos que se pueden aceder secuencialmente como arreglos, vectores y listas 
    ligadas. 
    
@@ -25,10 +25,10 @@ __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
 *  No pertenece a la familia denominada "IN-SITU" que realizan el proceso de ordenamiento dentro del mismo vector. Ya que este no utiliza el espacio sobre el que están almacenados los datos sino que para poder funcionar requiere de un espacio de mamroia adicional del tamaño  de los datos a ordenar en el cual se realizan las mezclas.
 ---
 ### Funcionamiento ###
-*Si la longuitud del array es menor o igual a 1 entonces ya esta ordenado 
-*El array a ordenar se divide en dos mitades de tamaño similar 
-*Cada mitad se ordena de forma recursiva aplicando el método MergeSort
-*A continuación las dos mitades ya ordenadas se mezclan formando una secuencia ordenada 
+* Si la longuitud del array es menor o igual a 1 entonces ya esta ordenado 
+* El array a ordenar se divide en dos mitades de tamaño similar 
+* Cada mitad se ordena de forma recursiva aplicando el método MergeSort
+* A continuación las dos mitades ya ordenadas se mezclan formando una secuencia ordenada 
 
 ---
 ### Ejemplo ###
@@ -43,9 +43,9 @@ __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
             merge(A,izq, m, der);
     }
 }
+```
 
-
-
+```
 public static void merge(int A[],int izq, int m, int der){
    int i, j, k;
    int [] B = new int[A.length]; //array auxiliar
@@ -68,5 +68,5 @@ public static void merge(int A[],int izq, int m, int der){
  
 * [GitHub](http://puntocomnoesunlenguaje.blogspot.com/2014/10/java-mergesort.html)
  
- * [GitHub](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
+* [GitHub](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
  
