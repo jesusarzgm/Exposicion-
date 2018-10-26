@@ -1,7 +1,7 @@
 
 ### ORDENAMIENTO MERGE SORT ###
 
-![Flux Explained](https:https://idea-instructions.com/merge-sort.png)
+![Flux Explained](https://idea-instructions.com/merge-sort.png)
 
 ---
 __Es una algoritmo de ordenamiento por mezcla, mejor conocido como "Merge Sort"
