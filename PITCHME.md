@@ -44,9 +44,9 @@ public static void mergesort(int A[],int izq, int der){
             merge(A,izq, m, der);
     }
 }
-```
----
-```
+
+
+
 public static void merge(int A[],int izq, int m, int der){
    int i, j, k;
    int [] B = new int[A.length]; //array auxiliar
